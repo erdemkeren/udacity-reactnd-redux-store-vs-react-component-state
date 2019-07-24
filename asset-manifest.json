@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udacity-reactnd-redux-store-vs-react-component-state/static/css/main.5f6103be.chunk.css",
+    "main.js": "/udacity-reactnd-redux-store-vs-react-component-state/static/js/main.fc64e319.chunk.js",
+    "main.js.map": "/udacity-reactnd-redux-store-vs-react-component-state/static/js/main.fc64e319.chunk.js.map",
+    "runtime~main.js": "/udacity-reactnd-redux-store-vs-react-component-state/static/js/runtime~main.297d11f3.js",
+    "runtime~main.js.map": "/udacity-reactnd-redux-store-vs-react-component-state/static/js/runtime~main.297d11f3.js.map",
+    "static/js/2.3a5f6865.chunk.js": "/udacity-reactnd-redux-store-vs-react-component-state/static/js/2.3a5f6865.chunk.js",
+    "static/js/2.3a5f6865.chunk.js.map": "/udacity-reactnd-redux-store-vs-react-component-state/static/js/2.3a5f6865.chunk.js.map",
+    "index.html": "/udacity-reactnd-redux-store-vs-react-component-state/index.html",
+    "precache-manifest.3c46bd426365054b1a5faccbb4ac1ff6.js": "/udacity-reactnd-redux-store-vs-react-component-state/precache-manifest.3c46bd426365054b1a5faccbb4ac1ff6.js",
+    "service-worker.js": "/udacity-reactnd-redux-store-vs-react-component-state/service-worker.js",
+    "static/css/main.5f6103be.chunk.css.map": "/udacity-reactnd-redux-store-vs-react-component-state/static/css/main.5f6103be.chunk.css.map"
+  }
+}
